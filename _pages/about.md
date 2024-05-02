@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! My name is Phadtaya Poemnamthip. I goes by Pad or Phad (both are pronounced as "Paad"). I am now a Ph.D. candidate in Physical Oceanography in the MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering working with [Dr. Weifeng "Gordon" Zhang](https://www2.whoi.edu/staff/wzhang/) at WHOI.
+Hello World! My name is Phadtaya Poemnamthip. I also go by Pad or Phad (both are pronounced as "Paad"). I am now a Ph.D. candidate in Physical Oceanography in the MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering working with [Dr. Weifeng "Gordon" Zhang](https://www2.whoi.edu/staff/wzhang/) at WHOI.
 
 About my research
 ======
