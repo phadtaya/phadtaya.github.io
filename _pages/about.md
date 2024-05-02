@@ -18,7 +18,7 @@ The main goal of my research is to discover and quantify the impact of the chang
 
 Research interest
 ======
-Coastal Oceanography, Numerical Modeling, Tropical Climate Variability
+Coastal Oceanography, Numerical Modeling, Coral Reef Hydrodynamics, Tropical Climate Variability
 
 More about me and my academic path
 ======
