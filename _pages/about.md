@@ -22,5 +22,5 @@ Coastal Oceanography, Numerical Modeling, Coral Reef Hydrodynamics, Tropical Cli
 
 Education
 ======
-\itemize Ph.D. in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering, MA, USA (2019-2026)
-\itemize B.Sc. in Physics, University of Innsbruck, Innsbruck, Austria (2012-2016)
+* Ph.D. in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering, MA, USA (2019-2026)
+* B.Sc. in Physics, University of Innsbruck, Innsbruck, Austria (2012-2016)
