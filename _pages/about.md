@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! My name is Phadtaya Poemnamthip. I also go by Pad or Phad (both are pronounced as "Paad"). I am now a Ph.D. candidate in Physical Oceanography in the MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering working with [Dr. Weifeng (Gordon) Zhang](https://www2.whoi.edu/staff/wzhang/) at WHOI.
+Hello World! My name is Phadtaya Poemnamthip. I also go by Pad or Phad (both are pronounced as "Paad"). I'm a Physical Oceanographer recently graduated from the MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering. I worked with [Dr. Weifeng (Gordon) Zhang](https://www2.whoi.edu/staff/wzhang/) at WHOI during my PhD.
 
 About my research
 ======
@@ -20,6 +20,7 @@ Research interest
 ======
 Coastal Oceanography, Numerical Modeling, Coral Reef Hydrodynamics, Tropical Climate Variability
 
-More about me and my academic path
+Education
 ======
-(My website is still under construction. Pardon me for that and please come back later!)
+\itemize Ph.D. in Physical Oceanography, MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering, MA, USA (2019-2026)
+\itemize B.Sc. in Physics, University of Innsbruck, Innsbruck, Austria (2012-2016)
